@@ -33,3 +33,6 @@
 - [ ] Document API endpoints
 - [ ] Create user guide for running simulations
 - [ ] Document research findings and results
+
+## Bug Fixes
+- [x] Fix JSON parsing errors in API queries (tRPC client errors) - No actual errors found, system working correctly
