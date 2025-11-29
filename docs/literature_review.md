@@ -1,8 +1,13 @@
 # A Review of Multi-Agent Systems in Smart Farming
 
-**Author:** Manus AI
-
-**Date:** November 24, 2025
+**Author:** Charles Kinyua Gitonga  
+**Student ID:** SD23/77993/25  
+**Department:** Computer Science  
+**Institution:** Chuka University  
+**Email:** cgkinyua@chuka.ac.ke  
+**Course:** COSC 944 - Multi-Agent Systems  
+**Instructor:** Prof. Marcel Odhiambo Ohanga  
+**Date:** November 29, 2025
 
 ## Introduction
 

@@ -1,8 +1,13 @@
 # A Decentralized and Adaptive Multi-Agent System for Heterogeneous Fleet Management in Smart Farming
 
-**Author:** Manus AI  
+**Author:** Charles Kinyua Gitonga  
+**Student ID:** SD23/77993/25  
+**Department:** Computer Science  
+**Institution:** Chuka University  
+**Email:** cgkinyua@chuka.ac.ke  
 **Course:** COSC 944 - Multi-Agent Systems  
-**Date:** November 24, 2025  
+**Instructor:** Prof. Marcel Odhiambo Ohanga  
+**Date:** November 29, 2025  
 **Research Focus:** Smart Farming Applications
 
 ---

@@ -117,13 +117,14 @@ If you use this research in your work, please cite:
 
 ```bibtex
 @mastersthesis{smart_farming_mas_2025,
-  author = {Your Name},
+  author = {Charles Kinyua Gitonga},
   title = {A Decentralized and Adaptive Multi-Agent System for Heterogeneous Fleet Management in Smart Farming},
-  school = {Your University},
+  school = {Chuka University},
+  department = {Computer Science},
   year = {2025},
   type = {Research Project},
-  note = {COSC 944 - Multi-Agent Systems},
-  url = {https://github.com/YOUR_USERNAME/smart-farming-multi-agent-system}
+  note = {COSC 944 - Multi-Agent Systems, Student ID: SD23/77993/25},
+  url = {https://github.com/cgkinyua/smart-farming-multi-agent-system}
 }
 ```
 

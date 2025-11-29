@@ -329,11 +329,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this system in your research, please cite:
 
 ```bibtex
-@software{smart_farming_mas_2025,
-  author = {Manus AI},
-  title = {Smart Farming Multi-Agent System: Decentralized Heterogeneous Fleet Management},
+@mastersthesis{smart_farming_mas_2025,
+  author = {Charles Kinyua Gitonga},
+  title = {A Decentralized and Adaptive Multi-Agent System for Heterogeneous Fleet Management in Smart Farming},
+  school = {Chuka University},
+  department = {Computer Science},
   year = {2025},
-  url = {https://github.com/yourusername/smart-farming-mas}
+  type = {Research Project},
+  note = {COSC 944 - Multi-Agent Systems, Student ID: SD23/77993/25},
+  url = {https://github.com/cgkinyua/smart-farming-multi-agent-system}
 }
 ```
 
@@ -343,8 +347,14 @@ This research project was completed as part of the COSC 944 Multi-Agent Systems 
 
 ## Contact
 
+**Author**: Charles Kinyua Gitonga  
+**Email**: cgkinyua@chuka.ac.ke  
+**Student ID**: SD23/77993/25  
+**Institution**: Chuka University, Department of Computer Science
+
 For questions, issues, or collaboration opportunities, please:
 - Open an issue on GitHub
+- Contact the author via email
 - Contact the course instructor: Prof. Marcel Odhiambo Ohanga
 
 ## References
